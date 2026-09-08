@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "09c5f7a5-e7af-40ef-a3c8-7b410223c4cc",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-SEC-LocalUserGroupMembership_Exclude\",\"description\":\"Device group for excluding devices from having additional local administrators removed.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-SEC-LocalUserGroupMembership_Exclude\",\"GUID\":\"09c5f7a5-e7af-40ef-a3c8-7b410223c4cc\"}"
+}
