@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "ea549b22-e628-4b13-a48d-ef9cc842886f",
+  "JSON": "{\"Displayname\":\"JyskIT-Baseline-CONF-SkipUserESP\",\"Description\":\"Significantly speeds up enrollment by skipping the user ESP.\",\"RAWJson\":\"{\\\"@odata.type\\\":\\\"#microsoft.graph.windows10CustomConfiguration\\\",\\\"roleScopeTagIds\\\":[\\\"0\\\"],\\\"deviceManagementApplicabilityRuleOsEdition\\\":null,\\\"deviceManagementApplicabilityRuleOsVersion\\\":null,\\\"deviceManagementApplicabilityRuleDeviceMode\\\":null,\\\"description\\\":\\\"Significantly speeds up enrollment by skipping the user ESP.\\\",\\\"displayName\\\":\\\"JyskIT-Baseline-CONF-SkipUserESP\\\",\\\"version\\\":1,\\\"omaSettings\\\":[{\\\"@odata.type\\\":\\\"#microsoft.graph.omaSettingBoolean\\\",\\\"displayName\\\":\\\"Skip user ESP\\\",\\\"description\\\":null,\\\"omaUri\\\":\\\"./Device/Vendor/MSFT/DMClient/Provider/MS DM Server/FirstSyncStatus/SkipUserStatusPage\\\",\\\"secretReferenceValueId\\\":null,\\\"isEncrypted\\\":false,\\\"value\\\":true}]}\",\"Type\":\"Device\",\"GUID\":\"ea549b22-e628-4b13-a48d-ef9cc842886f\"}"
+}
