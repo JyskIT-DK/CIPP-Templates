@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "49a7e26e-6276-4d78-9c44-40eaefb0ea06",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CONF-OneDrive_Exclude\",\"description\":\"For users that must be excluded from OneDrive policies.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-CONF-OneDrive_Exclude\",\"GUID\":\"49a7e26e-6276-4d78-9c44-40eaefb0ea06\"}"
+}
