@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "ed5299b3-cefd-4274-a685-9a1c3f6d084c",
+  "GUID": "ed5299b3-cefd-4274-a685-9a1c3f6d084c",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This baseline disables application consent for anything not deemed low-risk OAuth apps.<br>Adds the \\\"Global Administrator\\\" role as a reviewer, and allows users to request consent for review.</p>\",\"templateName\":\"Jysk IT - ALL - Disable app consent\",\"standards\":{\"OauthConsentLowSec\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}]},\"EnableAppConsentRequests\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"EnableAppConsentRequests\":{\"ReviewerRoles\":[]}}}},\"runManually\":false,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"ed5299b3-cefd-4274-a685-9a1c3f6d084c\",\"createdAt\":\"2025-09-22T13:36:03.9281522Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-22T13:36:03.9285264Z\"}"
+}
