@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "3f43f569-e20e-4eb6-a890-c5feae0a515d",
+  "GUID": "3f43f569-e20e-4eb6-a890-c5feae0a515d",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard configures OneDrive for all users to automatically be set up with Known-Folder-Move and automatic sign-in.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - OneDrive (User)\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-OneDrive\",\"value\":\"900cfe59-b7e4-4077-8cfd-cc76a2be2e20\",\"addedFields\":{}},\"AssignTo\":\"allLicensedUsers\",\"customGroup\":\"\",\"excludeGroup\":\"JyskIT-Baseline-SEC-SharedUsers,JyskIT-Baseline-CONF-OneDrive_Exclude\"}],\"GroupTemplate\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"groupTemplate\":[{\"label\":\"JyskIT-Baseline-CONF-OneDrive_Exclude\",\"value\":\"49a7e26e-6276-4d78-9c44-40eaefb0ea06\",\"addedFields\":{}}]}},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"3f43f569-e20e-4eb6-a890-c5feae0a515d\",\"createdAt\":\"2025-09-29T11:49:21.7785754Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T11:49:21.7806173Z\"}"
+}
