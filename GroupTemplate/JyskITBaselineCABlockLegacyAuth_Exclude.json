@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "1db0c673-2015-4c6d-8aac-08eb099dda94",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CA-BlockLegacyAuth_Exclude\",\"description\":\"For accounts that must be excluded from CA blocking Legacy Authentication.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-CA-BlockLegacyAuth_Exclude\",\"GUID\":\"1db0c673-2015-4c6d-8aac-08eb099dda94\"}"
+}
