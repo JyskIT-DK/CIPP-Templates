@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "bb483fa4-3d32-44a1-ab9d-8bd462b20f47",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CA-RequireMFA_Exclude\",\"description\":\"For all users who must be excluded from the CA requiring MFA.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-CA-RequireMFA_Exclude\",\"GUID\":\"bb483fa4-3d32-44a1-ab9d-8bd462b20f47\"}"
+}
