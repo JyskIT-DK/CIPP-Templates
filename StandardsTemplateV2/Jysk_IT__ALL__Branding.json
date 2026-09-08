@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "48d8eacf-76db-42ac-9f53-53c7719af352",
+  "GUID": "48d8eacf-76db-42ac-9f53-53c7719af352",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This baseline applies to all new customers.<br>It sets up sign-in branding and an OAuth admin consent policy.</p>\",\"templateName\":\"Jysk IT - ALL - Branding\",\"standards\":{\"Branding\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"Branding\":{\"signInPageText\":\"**Har du udfordringer med login?** Kontakt [Jysk IT](https://jyskit.dk) på 76 10 10 10\",\"usernameHintText\":\"Email address\",\"hideAccountResetCredentials\":false,\"layoutTemplateType\":{\"label\":\"Full-screen background\",\"value\":\"default\"},\"isHeaderShown\":true,\"isFooterShown\":true}}}},\"runManually\":false,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"48d8eacf-76db-42ac-9f53-53c7719af352\",\"createdAt\":\"2025-11-05T07:16:56.34473Z\",\"updatedBy\":\"mgh@jlhosting.dk\",\"updatedAt\":\"2025-11-05T07:16:56.3530749Z\"}"
+}
