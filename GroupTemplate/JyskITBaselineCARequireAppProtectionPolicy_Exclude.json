@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "4ea5d212-a87f-4765-9003-a0d5f5b3b98c",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CA-RequireAppProtectionPolicy_Exclude\",\"description\":\"For users that must be excluded from App Protection Policies.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-CA-RequireAppProtectionPolicy_Exclude\",\"GUID\":\"4ea5d212-a87f-4765-9003-a0d5f5b3b98c\"}"
+}
