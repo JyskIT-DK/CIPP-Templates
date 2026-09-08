@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "7c115e53-d6e9-4c8c-b6d8-40b2b77d3784",
+  "GUID": "7c115e53-d6e9-4c8c-b6d8-40b2b77d3784",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard configures Outlook on all devices to be set-up automatically based on the user's primary SMTP address.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - Outlook\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-Outlook\",\"value\":\"6e7a3780-9013-425b-876c-8d386921bb01\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"7c115e53-d6e9-4c8c-b6d8-40b2b77d3784\",\"createdAt\":\"2025-09-29T09:17:35.5166577Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:17:35.5170369Z\"}"
+}
