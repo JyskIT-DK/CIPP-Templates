@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "4a06efa8-2940-48c1-a36b-7641754ee04f",
+  "JSON": "{\"displayName\":\"All licensed Intune users\",\"description\":\"Contains all enabled users licensed for Intune\",\"groupType\":\"dynamic\",\"membershipRules\":\"(user.assignedPlans -any (assignedPlan.servicePlanId -eq \\\"c1ec4a95-1f05-45b3-a911-aa3fa01094f5\\\" -and assignedPlan.capabilityStatus -eq \\\"Enabled\\\"))\",\"allowExternal\":null,\"username\":\"intuneusers\",\"GUID\":\"4a06efa8-2940-48c1-a36b-7641754ee04f\"}"
+}
