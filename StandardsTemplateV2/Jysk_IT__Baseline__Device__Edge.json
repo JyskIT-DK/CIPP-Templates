@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "a997d2b5-4d26-4375-be0b-35240dafc07f",
+  "GUID": "a997d2b5-4d26-4375-be0b-35240dafc07f",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard configures Edge on all devices with Google as the default search engine, and removal of default bloat.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - Edge\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-Edge\",\"value\":\"76a08930-fd53-4686-8f10-0ef6b99780be\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"a997d2b5-4d26-4375-be0b-35240dafc07f\",\"createdAt\":\"2025-09-29T09:12:17.1234471Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:12:17.1379163Z\"}"
+}
