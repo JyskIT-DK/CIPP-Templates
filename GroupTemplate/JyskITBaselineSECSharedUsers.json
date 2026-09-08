@@ -1,0 +1,5 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "1176a1d9-d14e-4b42-ad35-f23c8eca333d",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-SEC-SharedUsers\",\"description\":\"For shared accounts\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"JyskIT-Baseline-SEC-SharedUsers\",\"GUID\":\"1176a1d9-d14e-4b42-ad35-f23c8eca333d\"}"
+}
