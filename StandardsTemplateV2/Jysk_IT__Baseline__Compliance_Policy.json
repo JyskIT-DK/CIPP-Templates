@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "73534cc4-7b79-4af9-9e7d-03c3ed2b0be2",
+  "GUID": "73534cc4-7b79-4af9-9e7d-03c3ed2b0be2",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard includes our default Windows device compliance policy.</p><p>In the future, it should also include compliance policies for mobile devices and Mac.</p>\",\"templateName\":\"Jysk IT - Baseline - Compliance Policy\",\"standards\":{\"IntuneComplianceSettings\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"IntuneComplianceSettings\":{\"secureByDefault\":{\"label\":\"Compliant\",\"value\":\"false\"},\"deviceComplianceCheckinThresholdDays\":\"30\"}}},\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-SEC-Compliance\",\"value\":\"c8d06041-05b7-4a1a-9bf2-0fad5d82f456\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"73534cc4-7b79-4af9-9e7d-03c3ed2b0be2\",\"createdAt\":\"2025-09-29T08:59:00.2952804Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T08:59:00.2981804Z\"}"
+}
