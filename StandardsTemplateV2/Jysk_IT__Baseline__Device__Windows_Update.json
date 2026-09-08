@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "a6d1db17-6512-4e9e-848b-504be62f4e1b",
+  "GUID": "a6d1db17-6512-4e9e-848b-504be62f4e1b",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard applies a Windows Update for Business policy to all devices in the tenant.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - Windows Update\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-WindowsUpdateForBusiness\",\"value\":\"6f3a6bf9-79ba-4640-afc1-62b02affd30e\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"a6d1db17-6512-4e9e-848b-504be62f4e1b\",\"createdAt\":\"2025-09-29T09:19:11.663177Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:19:11.6666231Z\"}"
+}
