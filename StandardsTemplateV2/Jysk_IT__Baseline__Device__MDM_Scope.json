@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "ae9f9897-fb2d-4f24-a1bb-95a5410e2e87",
+  "GUID": "ae9f9897-fb2d-4f24-a1bb-95a5410e2e87",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard enables Intune enrollment for all users in the tenant.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - MDM Scope\",\"standards\":{\"MDMScope\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"appliesTo\":\"all\",\"standards\":{\"MDMScope\":{\"customGroup\":\"\"}}}},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"ae9f9897-fb2d-4f24-a1bb-95a5410e2e87\",\"createdAt\":\"2025-09-29T09:15:02.7548068Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:15:02.7553388Z\"}"
+}
