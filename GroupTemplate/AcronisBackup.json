@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "GroupTemplate",
+  "RowKey": "c662033f-0a80-43f3-943f-3706fafa296e",
+  "JSON": "{\"displayName\":\"AcronisBackup\",\"description\":\"For all users that must be backed up by Acronis. If a user is not included here, their data will not be backed up.\",\"groupType\":\"generic\",\"membershipRules\":null,\"allowExternal\":null,\"username\":\"acronisbackup\",\"GUID\":\"c662033f-0a80-43f3-943f-3706fafa296e\"}",
+  "table": "templates"
+}
