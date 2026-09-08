@@ -1,0 +1,7 @@
+{
+  "PartitionKey": "IntuneTemplate",
+  "RowKey": "fb52be83-2dc3-47b1-aee8-a0e849ac4f02",
+  "GUID": "fb52be83-2dc3-47b1-aee8-a0e849ac4f02",
+  "JSON": "{\"Displayname\":\"JyskIT-Baseline-CONF-WiFi\",\"Description\":\"WiFi netværk der skydes ud til enheder - Ændre kode og SSID\",\"RAWJson\":\"{\\\"@odata.type\\\":\\\"#microsoft.graph.windowsWifiConfiguration\\\",\\\"roleScopeTagIds\\\":[\\\"0\\\"],\\\"description\\\":\\\"WiFi netværk der skydes ud til enheder\\\",\\\"displayName\\\":\\\"JyskIT-Baseline-CONF-WiFi\\\",\\\"version\\\":1,\\\"wifiSecurityType\\\":\\\"wpa2Personal\\\",\\\"meteredConnectionLimit\\\":\\\"unrestricted\\\",\\\"ssid\\\":\\\"WiFi-ChangeMe\\\",\\\"networkName\\\":\\\"WiFi-ChangeMe\\\",\\\"connectAutomatically\\\":true,\\\"connectToPreferredNetwork\\\":true,\\\"connectWhenNetworkNameIsHidden\\\":false,\\\"proxySetting\\\":\\\"none\\\",\\\"forceFIPSCompliance\\\":false}\",\"Type\":\"Device\",\"GUID\":\"fb52be83-2dc3-47b1-aee8-a0e849ac4f02\"}",
+  "Package": ""
+}
