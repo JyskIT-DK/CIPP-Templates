@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "6a72c962-530a-4929-ac1d-9b81b1a2f35b",
+  "GUID": "6a72c962-530a-4929-ac1d-9b81b1a2f35b",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CA-BlockLegacyAuth\",\"state\":\"enabled\",\"conditions\":{\"userRiskLevels\":[],\"signInRiskLevels\":[],\"clientAppTypes\":[\"exchangeActiveSync\",\"other\"],\"platforms\":null,\"locations\":null,\"times\":null,\"deviceStates\":null,\"devices\":null,\"clientApplications\":null,\"applications\":{\"includeApplications\":[\"All\"],\"excludeApplications\":[],\"includeUserActions\":[],\"includeAuthenticationContextClassReferences\":[],\"applicationFilter\":null},\"users\":{\"includeUsers\":[\"All\"],\"excludeUsers\":[],\"includeGroups\":[],\"excludeGroups\":[\"JyskIT-Baseline-CA-BlockLegacyAuth_Exclude\"],\"includeRoles\":[],\"excludeRoles\":[],\"includeGuestsOrExternalUsers\":null,\"excludeGuestsOrExternalUsers\":null}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"],\"customAuthenticationFactors\":[],\"termsOfUse\":[],\"authenticationStrength@odata.context\":\"https://graph.microsoft.com/beta/$metadata#identity/conditionalAccess/policies('3fcd558f-a961-4698-8c3b-1e585e7c64f1')/grantControls/authenticationStrength/$entity\",\"authenticationStrength\":null},\"LocationInfo\":[null,null]}"
+}
