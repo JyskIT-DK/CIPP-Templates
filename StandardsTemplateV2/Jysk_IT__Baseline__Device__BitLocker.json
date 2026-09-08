@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "fd5c385e-39cd-495f-a72c-00ab5c7169e3",
+  "GUID": "fd5c385e-39cd-495f-a72c-00ab5c7169e3",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard configures device encryption using BitLocker for all devices. Keys are stored in</p>\",\"templateName\":\"Jysk IT - Baseline - Device - BitLocker\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-SEC-DiskEncryption\",\"value\":\"e69477a5-d7b8-40e2-b47e-929c82c407ab\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"fd5c385e-39cd-495f-a72c-00ab5c7169e3\",\"createdAt\":\"2025-09-29T09:10:50.6127742Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:10:50.6161007Z\"}"
+}
