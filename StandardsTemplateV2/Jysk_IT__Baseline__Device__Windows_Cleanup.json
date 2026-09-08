@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "07795dec-e4ce-45cc-9fd2-09b65144090d",
+  "GUID": "07795dec-e4ce-45cc-9fd2-09b65144090d",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard applies some basic cleanup to a default Windows installation.</p>\",\"templateName\":\"Jysk IT - Baseline - Device - Windows Cleanup\",\"standards\":{\"IntuneTemplate\":[{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-Device-WindowsCleanup\",\"value\":\"83d56041-a41a-4407-aa3e-f9de308604d5\",\"addedFields\":{}},\"AssignTo\":\"AllDevices\",\"customGroup\":\"\",\"excludeGroup\":\"\"},{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"TemplateList\":{\"label\":\"JyskIT-Baseline-CONF-User-WindowsCleanup\",\"value\":\"a15476de-5154-4784-baf0-8c0d1c5ebaa4\",\"addedFields\":{}},\"AssignTo\":\"allLicensedUsers\",\"customGroup\":\"\",\"excludeGroup\":\"\"}]},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"07795dec-e4ce-45cc-9fd2-09b65144090d\",\"createdAt\":\"2025-09-29T09:18:35.064762Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:18:35.0672134Z\"}"
+}
