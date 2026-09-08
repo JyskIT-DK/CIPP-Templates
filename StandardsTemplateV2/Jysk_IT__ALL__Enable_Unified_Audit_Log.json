@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "b10ff247-b3c3-4ffb-b017-c6c17bed05b4",
+  "GUID": "b10ff247-b3c3-4ffb-b017-c6c17bed05b4",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>Enables unified audit logging for all licensed tenants.</p>\",\"templateName\":\"Jysk IT - ALL - Enable Unified Audit Log\",\"standards\":{\"AuditLog\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}]},\"EnableMailboxAuditing\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}]}},\"runManually\":false,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"b10ff247-b3c3-4ffb-b017-c6c17bed05b4\",\"createdAt\":\"2025-09-29T09:20:22.5776478Z\",\"updatedBy\":\"pev@jlhosting.dk\",\"updatedAt\":\"2025-09-29T09:20:22.5780193Z\"}"
+}
