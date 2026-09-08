@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "753a725d-6afb-4e1a-8dc1-c4b8f505e01a",
+  "GUID": "753a725d-6afb-4e1a-8dc1-c4b8f505e01a",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>This standard creates default policies for the following:<br>Safe Attachments<br>Safe Links</p>\",\"templateName\":\"Jysk IT - Exchange Online - Safe Attachments/Safe Links (Quarantine reports)\",\"standards\":{\"SafeAttachmentPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SafeAttachmentPolicy\":{\"SafeAttachmentAction\":\"DynamicDelivery\",\"QuarantineTag\":\"DefaultFullAccessWithNotificationPolicy\",\"Redirect\":false,\"name\":\"CIPP Default Safe Attachment Policy - Quarantine reports\"}}},\"SafeLinksPolicy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"SafeLinksPolicy\":{\"AllowClickThrough\":true,\"DisableUrlRewrite\":true,\"EnableOrganizationBranding\":true,\"name\":\"CIPP Default SafeLinks Policy\"}}}},\"runManually\":true,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"753a725d-6afb-4e1a-8dc1-c4b8f505e01a\",\"createdAt\":\"2026-09-04T12:09:23.7994948Z\",\"updatedBy\":\"gch@jlhosting.dk\",\"updatedAt\":\"2026-09-04T12:09:23.7999829Z\"}"
+}
