@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "StandardsTemplateV2",
+  "RowKey": "23bd4af2-0426-4f8b-9472-f6d752b76285",
+  "GUID": "23bd4af2-0426-4f8b-9472-f6d752b76285",
+  "JSON": "{\"tenantFilter\":[{\"label\":\"Template Tenant\",\"value\":\"Template Tenant\"}],\"excludedTenants\":[],\"description\":\"<p>Adds the required include group for Acronis Backup.</p>\",\"templateName\":\"Jysk IT - ALL - AcronisBackup\",\"standards\":{\"GroupTemplate\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"groupTemplate\":[{\"label\":\"AcronisBackup\",\"value\":\"c662033f-0a80-43f3-943f-3706fafa296e\",\"addedFields\":null}]},\"AppDeploy\":{\"action\":[{\"label\":\"Remediate\",\"value\":\"Remediate\"}],\"standards\":{\"AppDeploy\":{\"mode\":\"template\",\"appids\":\"\",\"templateIds\":[{\"label\":\"Acronis - Backup Service\",\"value\":\"8951590d-a69b-4f3a-bd66-547aa8173c51\",\"addedFields\":{\"AppId\":\"912b3045-82b8-40a4-9da9-cff4dc5290af\"}}]}}}},\"runManually\":false,\"isDriftTemplate\":\"isDriftTemplate\",\"GUID\":\"23bd4af2-0426-4f8b-9472-f6d752b76285\",\"createdAt\":\"2026-08-24T11:58:06.1978384Z\",\"updatedBy\":\"nje@jlhosting.dk\",\"updatedAt\":\"2026-08-24T11:58:06.1983403Z\"}"
+}
