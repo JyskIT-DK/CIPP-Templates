@@ -1,0 +1,6 @@
+{
+  "PartitionKey": "CATemplate",
+  "RowKey": "cd52c08e-592a-47cb-a9dd-ad800211456d",
+  "GUID": "cd52c08e-592a-47cb-a9dd-ad800211456d",
+  "JSON": "{\"displayName\":\"JyskIT-Baseline-CA-RequireMFA\",\"state\":\"enabled\",\"conditions\":{\"userRiskLevels\":[],\"signInRiskLevels\":[],\"clientAppTypes\":[\"all\"],\"platforms\":null,\"times\":null,\"deviceStates\":null,\"devices\":null,\"clientApplications\":null,\"applications\":{\"includeApplications\":[\"All\"],\"excludeApplications\":[],\"includeUserActions\":[],\"includeAuthenticationContextClassReferences\":[],\"applicationFilter\":null},\"users\":{\"includeUsers\":[\"All\"],\"excludeUsers\":[],\"includeGroups\":[],\"excludeGroups\":[\"JyskIT-Baseline-CA-RequireMFA_Exclude\"],\"includeRoles\":[],\"excludeRoles\":[],\"includeGuestsOrExternalUsers\":null,\"excludeGuestsOrExternalUsers\":null},\"locations\":{\"includeLocations\":[\"All\"],\"excludeLocations\":[\"AllTrusted\"]}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"mfa\"],\"customAuthenticationFactors\":[],\"termsOfUse\":[],\"authenticationStrength@odata.context\":\"https://graph.microsoft.com/beta/$metadata#identity/conditionalAccess/policies('6cd04aea-a408-46fd-ad8e-255ce983b935')/grantControls/authenticationStrength/$entity\",\"authenticationStrength\":null},\"LocationInfo\":[null,null]}"
+}
