@@ -2,6 +2,6 @@
   "PartitionKey": "CATemplate",
   "RowKey": "8cb48c0e-4752-4694-b221-611826658699",
   "GUID": "8cb48c0e-4752-4694-b221-611826658699",
-  "JSON": "{\"displayName\":\"JyskIT-Geo-Block\",\"state\":\"enabledForReportingButNotEnforced\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"locations\":{\"includeLocations\":[\"All\"],\"excludeLocations\":[\"GEO-DK\"]}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"]},\"LocationInfo\":[{\"@odata.type\":\"#microsoft.graph.countryNamedLocation\",\"displayName\":\"GEO-DK\",\"countriesAndRegions\":[\"DK\"],\"includeUnknownCountriesAndRegions\":true,\"countryLookupMethod\":\"clientIpAddress\"}]}",
+  "JSON": "{\"displayName\":\"JyskIT-Geo-Block\",\"state\":\"enabled\",\"conditions\":{\"users\":{\"includeUsers\":[\"All\"]},\"applications\":{\"includeApplications\":[\"All\"]},\"clientAppTypes\":[\"all\"],\"locations\":{\"includeLocations\":[\"All\"],\"excludeLocations\":[\"GEO-DK\"]}},\"grantControls\":{\"operator\":\"OR\",\"builtInControls\":[\"block\"]},\"LocationInfo\":[{\"@odata.type\":\"#microsoft.graph.countryNamedLocation\",\"displayName\":\"GEO-DK\",\"countriesAndRegions\":[\"DK\"],\"includeUnknownCountriesAndRegions\":true,\"countryLookupMethod\":\"clientIpAddress\"}]}",
   "SHA": ""
 }
